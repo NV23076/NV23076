@@ -1,23 +1,56 @@
-# Hi there 👋
-Welcome to my GitHub profile! I'm [Your Name], a passionate developer who loves to create and contribute to open-source projects
-## About Me
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Skill]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Issue/Project]
-- 💬 Ask me about [Topic/Technology]
-- 📫 How to reach me: [Email/LinkedIn/Twitter]
-- ⚡ Fun fact: [Interesting Fact About You]
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:youremail@example.com)
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F00FF,100:E100FF&height=180&section=header&text=HELLO%20WORLD&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h1 align="center">Hello there, I'm Saud 👋🏿!</h1>
+<h3 align="center">Cloud Computing Student ☁️</h3>
+
+---
+
+### 🚀 About Me  
+
+- 🎓 Cloud Computing Student  
+- ⚡ Fast and eager learner with a passion for cloud technologies  
+- ☁️ Exploring AWS services and cloud infrastructure  
+- 🛠️ Interested in Cloud Architecture, DevOps & Automation 
+- 🔐 Learning about Cloud Security & Best Practices 
+- 🚀 Building scalable and reliable cloud-based projects  
+
+---
+
+### 🧰 Tech Skills 
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+
+**Web Development**  
+![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Amazon RDS](https://img.shields.io/badge/Amazon%20RDS-000?style=for-the-badge&logo=amazon-aws)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-000?style=for-the-badge&logo=amazon-dynamodb)
+
+
+---
+
+### 🧠 Currently Learning  
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-000?style=for-the-badge&logo=amazon-aws)
+![Containerization](https://img.shields.io/badge/Containerization-000?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=githubactions)
+
+
+---
+
+### 🌐 Connect With Me  
+- ☎️ Mobile Number: +973 34688946 
+- 📧 Email: NV23076@ncst.edu.bh 
+
+---
+
+
+<p align="center">
+    <i>“ Tell me and I forget, teach me and I remember, involve me and I learn." - Benjamin Franklin.</i>
+</p>
